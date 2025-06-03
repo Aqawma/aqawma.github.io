@@ -7,46 +7,58 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://japanese.maxgoodfellow.com/categories/cat_learning-japanese.xml</loc>
-  <lastmod>2025-05-30T14:15:00Z</lastmod>
+  <lastmod>2025-06-03T00:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://japanese.maxgoodfellow.com/categories/introduction.xml</loc>
-  <lastmod>2025-05-30T14:15:00Z</lastmod>
+  <lastmod>2025-06-03T00:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://japanese.maxgoodfellow.com/categories/japanese.xml</loc>
-  <lastmod>2025-05-30T14:15:00Z</lastmod>
+  <lastmod>2025-06-03T00:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://japanese.maxgoodfellow.com/categories/learning.xml</loc>
-  <lastmod>2025-05-30T14:15:00Z</lastmod>
+  <lastmod>2025-06-03T00:37:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://japanese.maxgoodfellow.com/categories/vocabulary.xml</loc>
+  <lastmod>2025-06-03T00:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://japanese.maxgoodfellow.com/ja/categories/cat_learning-japanese.xml</loc>
-  <lastmod>2025-05-30T14:15:00Z</lastmod>
+  <lastmod>2025-06-03T00:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://japanese.maxgoodfellow.com/ja/categories/introduction.xml</loc>
-  <lastmod>2025-05-30T14:15:00Z</lastmod>
+  <lastmod>2025-06-03T00:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://japanese.maxgoodfellow.com/ja/categories/japanese.xml</loc>
-  <lastmod>2025-05-30T14:15:00Z</lastmod>
+  <lastmod>2025-06-03T00:37:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://japanese.maxgoodfellow.com/ja/categories/kanji.xml</loc>
+  <lastmod>2025-06-03T00:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://japanese.maxgoodfellow.com/ja/categories/learning.xml</loc>
-  <lastmod>2025-05-30T14:15:00Z</lastmod>
+  <lastmod>2025-06-03T00:37:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://japanese.maxgoodfellow.com/ja/categories/vocabulary.xml</loc>
+  <lastmod>2025-06-03T00:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://japanese.maxgoodfellow.com/ja/rss.xml</loc>
-  <lastmod>2025-05-30T14:15:00Z</lastmod>
+  <lastmod>2025-06-03T00:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://japanese.maxgoodfellow.com/rss.xml</loc>
-  <lastmod>2025-05-30T14:15:00Z</lastmod>
+  <lastmod>2025-06-03T00:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://japanese.maxgoodfellow.com/sitemap.xml</loc>
-  <lastmod>2025-05-30T14:15:00Z</lastmod>
+  <lastmod>2025-06-03T00:37:00Z</lastmod>
  </sitemap>
 </sitemapindex>
