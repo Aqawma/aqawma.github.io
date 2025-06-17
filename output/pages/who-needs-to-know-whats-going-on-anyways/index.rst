@@ -1,0 +1,10 @@
+.. title: Who needs to know what's going on anyways?
+.. slug: who-needs-to-know-whats-going-on-anyways
+.. date: 2025-06-17 02:05:40 UTC-04:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+Write your page here.

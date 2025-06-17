@@ -1,6 +1,6 @@
 .. title: Learning to Read (again)
 .. slug: learning-to-read-again
-.. date: 2025-06-17 01:49:44 UTC-04:00
+.. date: 2025-06-5 20:49:44 UTC-04:00
 .. tags: 
 .. category: 
 .. link: 
