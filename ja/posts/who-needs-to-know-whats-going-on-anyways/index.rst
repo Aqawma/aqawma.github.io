@@ -1,5 +1,5 @@
-.. title: Who needs to know whays going on anyways?
-.. slug: who-needs-to-know-whays-going-on-anyways
+.. title: Who needs to know whats going on anyways?
+.. slug: who-needs-to-know-whats-going-on-anyways
 .. date: 2025-06-17 02:07:20 UTC-04:00
 .. tags: 
 .. category: 
