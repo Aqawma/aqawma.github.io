@@ -7,6 +7,7 @@
 .. description: 
 .. type: text
 
+
 Hello!
 
 My name is Max Goodfellow. This past spring, I received a merit scholarship to attend an international high school in Japan called United World College International School of Asia, Karuizawa, Japan (UWC ISAK Japan). While the school is English-speaking, I will still live in a primarily non-English-speaking country for two years. As such, I would like to learn as much Japanese as possible before I leave on August 12, 2025.
