@@ -6,5 +6,6 @@
 .. link: 
 .. description: 
 .. type: text
+.. status: draft
 
 漢字は**難しい**です

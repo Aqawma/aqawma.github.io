@@ -6,5 +6,6 @@
 .. link: 
 .. description: 
 .. type: text
+.. status: draft
 
-Kanji is **hard**
+
