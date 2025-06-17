@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://japanese.maxgoodfellow.com/</loc>
-  <lastmod>2025-06-03T00:27:00Z</lastmod>
+  <lastmod>2025-06-17T05:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://japanese.maxgoodfellow.com/2025/</loc>
@@ -19,7 +19,7 @@
  </url>
  <url>
   <loc>https://japanese.maxgoodfellow.com/categories/</loc>
-  <lastmod>2025-06-03T00:37:00Z</lastmod>
+  <lastmod>2025-06-17T05:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://japanese.maxgoodfellow.com/categories/cat_learning-japanese/</loc>
@@ -38,10 +38,6 @@
   <lastmod>2025-05-29T15:09:00Z</lastmod>
  </url>
  <url>
-  <loc>https://japanese.maxgoodfellow.com/categories/vocabulary/</loc>
-  <lastmod>2025-06-03T00:37:00Z</lastmod>
- </url>
- <url>
   <loc>https://japanese.maxgoodfellow.com/ja/</loc>
   <lastmod>2025-05-29T15:09:00Z</lastmod>
  </url>
@@ -55,7 +51,7 @@
  </url>
  <url>
   <loc>https://japanese.maxgoodfellow.com/ja/categories/</loc>
-  <lastmod>2025-06-03T00:37:00Z</lastmod>
+  <lastmod>2025-06-17T05:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://japanese.maxgoodfellow.com/ja/categories/cat_learning-japanese/</loc>
@@ -70,16 +66,8 @@
   <lastmod>2025-05-29T15:09:00Z</lastmod>
  </url>
  <url>
-  <loc>https://japanese.maxgoodfellow.com/ja/categories/kanji/</loc>
-  <lastmod>2025-06-03T00:37:00Z</lastmod>
- </url>
- <url>
   <loc>https://japanese.maxgoodfellow.com/ja/categories/learning/</loc>
   <lastmod>2025-05-29T15:09:00Z</lastmod>
- </url>
- <url>
-  <loc>https://japanese.maxgoodfellow.com/ja/categories/vocabulary/</loc>
-  <lastmod>2025-06-03T00:37:00Z</lastmod>
  </url>
  <url>
   <loc>https://japanese.maxgoodfellow.com/ja/posts/introductions/</loc>
