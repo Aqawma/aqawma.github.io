@@ -43,4 +43,9 @@ Sign Off
 That’s all I have for right now! I’m sorry this post was so focused on making you understand how the Japanese writing system works, but I promise it will save you a ton of confusion down the road!
 
 Bye for now,
-**Max**
+Max
+
+.. image:: /images/kanaChart.jpg
+   :alt: Hiragana and Katakana Chart
+   :class: center
+   :width: 600px
