@@ -15,7 +15,7 @@
  </url>
  <url>
   <loc>https://japanese.maxgoodfellow.com/archive.html</loc>
-  <lastmod>2025-06-03T00:37:00Z</lastmod>
+  <lastmod>2025-06-17T06:00:00Z</lastmod>
  </url>
  <url>
   <loc>https://japanese.maxgoodfellow.com/categories/</loc>
@@ -47,7 +47,7 @@
  </url>
  <url>
   <loc>https://japanese.maxgoodfellow.com/ja/archive.html</loc>
-  <lastmod>2025-06-03T00:37:00Z</lastmod>
+  <lastmod>2025-06-17T06:00:00Z</lastmod>
  </url>
  <url>
   <loc>https://japanese.maxgoodfellow.com/ja/categories/</loc>
@@ -75,6 +75,11 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://japanese.maxgoodfellow.com/posts/introductions/" />
  </url>
  <url>
+  <loc>https://japanese.maxgoodfellow.com/ja/posts/learning-to-read-again/</loc>
+  <lastmod>2025-06-17T06:00:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://japanese.maxgoodfellow.com/posts/learning-to-read-again/" />
+ </url>
+ <url>
   <loc>https://japanese.maxgoodfellow.com/ja/posts/remembering-the-kanji/</loc>
   <lastmod>2025-06-17T05:22:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://japanese.maxgoodfellow.com/posts/remembering-the-kanji/" />
@@ -87,6 +92,10 @@
   <loc>https://japanese.maxgoodfellow.com/posts/introductions/</loc>
   <lastmod>2025-05-29T15:09:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="ja" href="https://japanese.maxgoodfellow.com/ja/posts/introductions/" />
+ </url>
+ <url>
+  <loc>https://japanese.maxgoodfellow.com/posts/learning-to-read-again/</loc>
+  <lastmod>2025-06-17T06:00:00Z</lastmod>
  </url>
  <url>
   <loc>https://japanese.maxgoodfellow.com/posts/remembering-the-kanji/</loc>
